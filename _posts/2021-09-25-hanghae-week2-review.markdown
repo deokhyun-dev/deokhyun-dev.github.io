@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "[항해99] 2주차 회고"
-date: 2021-09-26 21:03:36 +0530
-categories: Javascript NodeJS
+date: 2021-09-25 21:03:36 +0530
+categories: 항해99
 ---
 
 ## 1. WIL
