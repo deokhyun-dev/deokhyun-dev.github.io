@@ -2,7 +2,7 @@
 layout: post
 title: "[항해99] 1주차 회고"
 date: 2021-09-19 21:03:36 +0530
-categories: Frontend
+categories: Javascript NodeJS
 ---
 
 ### 1. 협업 환경 공부 및 세팅 필요

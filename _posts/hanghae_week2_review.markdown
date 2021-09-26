@@ -2,7 +2,7 @@
 layout: post
 title: "[항해99] 2주차 회고"
 date: 2021-09-26 21:03:36 +0530
-categories: Frontend
+categories: Javascript NodeJS
 ---
 
 ## 1. WIL
